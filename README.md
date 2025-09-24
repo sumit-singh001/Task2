@@ -1,2 +1,4 @@
 # Task2
-Task2 completed ft. Elevate Labs
+A responsive, easily navigable online To-do list app designed using simple JavaScript tools such as HTML and CSS. Using this application, users can simply and quickly accomplish almost all of their tasks. Core Functionality With Added Features Add Tasks: Users can make new tasks through text field. Mark Tasks: Click to set and remember tasks. Delete Tasks: Users can delete tasks which are set. Tasks are remembered and stored through the use of local storage. Updates: Users can make instant changes on their profiles, changes are shown in real time. User Experience. Responsive on both mobile and PC devices. Users can quickly add tasks using the keyboard. Users have an increased sense of control as they can click on tasks, and tasks are highlighted as they are completed.
+
+Tasks which are not completed are shown in grey, so there is a clear contrast in completed and not completed tasks. These tasks are set with a friendly and helpful reminder.
